@@ -21,11 +21,19 @@ acestream://3283c4c05d55abecd43120ac4d3b80787c6edba7
 acestream://f6035f63bfe6ad6b949dff2f4812ea1a4472e509
 #EXTINF:0,Arenavision 3 (SPA)
 acestream://f4d55a713fabd7ef2884cb0d2b7711d7553e7e7c
-#EXTINF:0,Movistar F1 (SPA)
-acestream://f87df656db37fa3c92a528023db243cde87b20b8
-#EXTINF:0,BT Sport 1
-acestream://c86789ad78c1859f3a0e649f57138e6c8248ef27
-#EXTINF:0,BT Sport 2 HD
-acestream://f581c39ebb127dadfa30526b13006fb7872218cd
-#EXTINF:0,BT Sport 2 HD
-acestream://7f45b6a047ccd82173ae18228d801096b09520ed
+#EXTINF:0,Sky Sports F1 HD
+acestream://38d2c3762a9fbcb18031b18e7dba3a20bdbbaf59
+#EXTINF:0,Sky Sports F1
+acestream://fd931cb7b45614de6ee10eea838098892dd8a5de
+#EXTINF:0,Sky Sports 1
+acestream://e061202217ea02d1c62e03688eaa3a60ee7b6829
+#EXTINF:0,BT Sports 1
+acestream://3cf32325ca45e0179e0b1a3e3ad8d2de5296edcd
+#EXTINF:0,BT Sports 2
+acestream://33b428a9cec1d7d2cd2809d8e49a687e167378a6
+#EXTINF:0,BT Sports 3
+acestream://66ce42b59cd7028be149ee7e7ca17066910b2db3
+#EXTINF:0,BT Sports ESPN
+acestream://c880ed219ebc35a1a9ab59fe12260c59b25ab406
+#EXTINF:0,Premier Sports UK
+acestream://e4d9f7188e4403523c32717a98093671f8931101
